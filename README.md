@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/hasilovafatime" target="_blank">
+    <a href="www.linkedin.com/in/fatimə-hasilova-895600377" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -62,8 +62,5 @@
 
 ---
 
-### 📊 GitHub Statistikam
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasanova-A&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="Fatime's GitHub Stats" />
 </div>
